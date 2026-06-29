@@ -50,26 +50,6 @@ https://archive.ics.uci.edu/ml/datasets/iris
 
 ---
 
-## 📂 Project Structure
-
-```
-Iris-Flower-Classification/
-│
-├── data/
-│   └── iris.csv
-│
-├── notebooks/
-│   └── Iris_Classification.ipynb
-│
-├── images/
-│   ├── pairplot.png
-│   ├── confusion_matrix.png
-│   └── feature_distribution.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
