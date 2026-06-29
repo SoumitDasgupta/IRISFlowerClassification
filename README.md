@@ -163,6 +163,3 @@ B.Tech Electronics & Communication Engineering
 
 Institute of Engineering & Management (IEM), Kolkata
 
-LinkedIn: *(Add your LinkedIn URL)*
-
-GitHub: *(Add your GitHub URL)*
